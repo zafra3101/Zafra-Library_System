@@ -1,7 +1,7 @@
 # Library Management System
 ---
 ## Description
-This is a RESTful API for managing users, books, and authors in the library system. It includes user authentication via JWT tokens and endpoints for managing book and author data.
+The library system is a RESTful API for managing users, books, and authors in the library system. It includes user authentication via JWT tokens and endpoints for managing book and author data.
 
 The API provides endpoints for registering users, logging them in, and managing book and author data, while utilizing JWT-based authentication for security.
 
