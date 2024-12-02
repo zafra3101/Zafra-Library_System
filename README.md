@@ -1,4 +1,4 @@
-# Library Management System by Marvee O. Zafra
+# Library Management System
 ---
 ## Description
 This is a RESTful API for managing users, books, and authors in the library system. It includes user authentication via JWT tokens and endpoints for managing book and author data.
@@ -250,3 +250,8 @@ Response:
     }
   ```
 ---
+# Developer Contact
+
+FaceBook: Marvee O. Zafra
+
+Contact: zaframarvee32@gmail.com / mzafra31012@student.dmmmsu.edu.ph
