@@ -252,6 +252,6 @@ Response:
 ---
 # Developer Contact
 
-FaceBook: Marvee O. Zafra
+Facebook: Marvee O. Zafra
 
 Contact: zaframarvee32@gmail.com / mzafra31012@student.dmmmsu.edu.ph
